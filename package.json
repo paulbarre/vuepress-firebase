@@ -1,20 +1,28 @@
 {
   "name": "@paulbarre/vuepress-plugin-firebase",
-  "version": "1.0.0",
-  "description": "",
+  "author": "Paul Barré <contact@paulbarre.co>",
+  "description": "Vuepress plugin to easily setup Firebase API",
+  "version": "0.1.0",
+  "license": "GPL-3.0-or-later",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/paulbarre/vuepress-plugin-firebase.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "vuepress",
+    "firebase",
+    "firestore",
+    "api",
+    "plugin"
+  ],
   "bugs": {
     "url": "https://github.com/paulbarre/vuepress-plugin-firebase/issues"
   },
-  "homepage": "https://github.com/paulbarre/vuepress-plugin-firebase#readme"
+  "homepage": "https://github.com/paulbarre/vuepress-plugin-firebase#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@paulbarre/vue-firebase": "^0.3.0"
+  }
 }
