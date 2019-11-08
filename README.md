@@ -4,7 +4,7 @@
 
 This plugin installs [@paulbarre/vue-firebase](https://github.com/paulbarre/vue-firebase) package into your Vuepress application.
 
-Check out the documentation for further information on this plugin options, they are the same.
+Check out its documentation to see how to configure this plugin, the options are exactly the same.
 
 ## Installation
 
@@ -35,4 +35,4 @@ module.exports = {
 }
 ```
 
-> Check out [Vuepress' official documentation](https://vuepress.vuejs.org/plugin/using-a-plugin.html) to see how to setup a plugin.
+Check out [Vuepress' official documentation](https://vuepress.vuejs.org/plugin/using-a-plugin.html) to see how to setup a plugin.
